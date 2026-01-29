@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -73,3 +74,6 @@ Abano World is a Next.js + Tailwind CSS project designed to host a Blog, Vlog, P
 - Learned that the terminal running `npm run dev` is locked to the server process.
 - Opened a second terminal in VS Code for Git commands.
 - Can now run Git operations (init, commit, push) without stopping the dev server.
+=======
+# Abanoworld
+>>>>>>> 5cf31de63478fcbd9f50918e1a9f541eaf1d2656
